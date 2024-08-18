@@ -24,6 +24,7 @@ Because of my experience in the computer science program and the CS-499 Capstone
 ---
 
 ## **Milestone One: Code Review**
+<img src="https://github.com/victoria880/ePortfolio/blob/55474edca4d468bc25105a0e85ebab390b292464/pictures/Picture2.png" alt="Source Image" width="50" height="50" />
 
 As part of my first strategy, I recorded myself reviewing the code for each artifact. This code review details my strategy for improving the code by analyzing it for constraints, flaws, and vulnerabilities. These code reviews show each category's essential features as they travel through the current code and proposed improvements.
 
