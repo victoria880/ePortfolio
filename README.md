@@ -58,7 +58,7 @@ My ePortfolio includes AnimalShelter.py, which showcases my software engineering
 I updated my outcome coverage plans to reflect AnimalShelter.py developments to meet course goals. This alignment gives my software systems additional security and makes my ePortfolio stand out. It proves I know modern database management, program architecture, and safe coding. I improved my secure coding, database administration, and program design skills by changing the AnimalShelter.py artifact. My challenges helped me improve my problem-solving and apply industry best practices, making the implementation stronger and safer. This strategy has also shown the importance of iterative and continuous software development to ensure reliable and easy-to-manage systems.
 
 #
-
+<p><a href="/uri" title="title">https://github.com/victoria880/ePortfolio/tree/c8e6681eec701128079c95871363da27fce95a7c/CS%20499%20Milestone%20Two</a></p>
 
 https://github.com/victoria880/ePortfolio/tree/c8e6681eec701128079c95871363da27fce95a7c/CS%20499%20Milestone%20Two
 https://github.com/victoria880/ePortfolio/tree/31a0faacd976d911523b7f8f2ccdd224d23f679b/CS%20499%20Milestone%20Three
