@@ -9,6 +9,8 @@
 **Milestone One: Code Review**
 
 
+As part of my first strategy, I recorded myself reviewing the code for each artifact. This code review details my strategy for improving the code by analyzing it for constraints, flaws, and vulnerabilities. These code reviews show each category's essential features as they travel through the current code and proposed improvements.
+ 
 https://youtu.be/Yoavnz4OL_0
 #
 
