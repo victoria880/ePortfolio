@@ -10,7 +10,14 @@
 
 
 As part of my first strategy, I recorded myself reviewing the code for each artifact. This code review details my strategy for improving the code by analyzing it for constraints, flaws, and vulnerabilities. These code reviews show each category's essential features as they travel through the current code and proposed improvements.
- 
+
+This code review evaluates three artifacts: software engineering and design, algorithms and data structures, and databases. The first artifact, gpiointerrupt.c, is a model for a thermostat control board written in C and run in Code Composer Studio. It showcases the process of interacting with hardware components like LEDs, buttons, UART, I2C, and timers. The code could use improvements such as reduced redundancy, refactored button handling, consistent code formatting, enhanced error handling and logging, improved comments, unit tests, and breaking down functions into smaller modules.
+
+The second artifact, "BufferOverflow.cpp," is C++ code from the CS 405: Secure Coding course. It has a buffer overflow vulnerability, which can be addressed by applying std::setw(20) correctly, implementing error handling, and implementing thorough unit tests.
+
+The third artifact, "AnimalShelter.py," is a final project from CS 340: Advanced Programming Concepts. It creates an AnimalShelter class in MongoDB that performs CRUD actions on an animal collection. The code snippet defines the AnimalShelter class, which includes methods for creating, reading, updating, and deleting data. Improvements include adding unit tests for CRUD operations and typing hints for better readability and maintainability. 
+
+
 https://youtu.be/Yoavnz4OL_0
 #
 
