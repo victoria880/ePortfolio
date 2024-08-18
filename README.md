@@ -69,7 +69,7 @@ Using MongoDB, a popular NoSQL database, shows my database expertise. This is es
 My ePortfolio includes `AnimalShelter.py`, which showcases my software engineering talents and ability to build a backend service. This fulfills the software engineering and design artifact criteria for my CS 499 project. `AnimalShelter.py` also demonstrates my skills in database management, secure coding, object-oriented design, and the real-world application of complex programming ideas. This area of my ePortfolio is vital since it demonstrates my class and activity knowledge and skills.
 
 I updated my outcome coverage plans to reflect `AnimalShelter.py` developments to meet course goals. This alignment gives my software systems additional security and makes my ePortfolio stand out. It proves I know modern database management, program architecture, and safe coding. I improved my secure coding, database administration, and program design skills by
-changing the `AnimalShelter.py artifact. My challenges helped me improve my problem-solving and apply industry best practices, making the implementation stronger and safer. This strategy has also shown the importance of iterative and continuous software development to ensure reliable and easy-to-manage systems.
+changing the `AnimalShelter.py` artifact. My challenges helped me improve my problem-solving and apply industry best practices, making the implementation stronger and safer. This strategy has also shown the importance of iterative and continuous software development to ensure reliable and easy-to-manage systems.
 [View the Enhancement on GitHub](https://github.com/victoria880/ePortfolio/tree/6a7c200dd488dd7387909454143adc3c48bc4cda/CS%20499%20Milestone%20Four)
 
 ---
