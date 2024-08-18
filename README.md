@@ -1,7 +1,7 @@
 # **ePortfolio**
 # **CS-499 Computer Science Capstone**
 
-<img src="https://github.com/victoria880/ePortfolio/blob/34b5c89d359b2a50ddfe9c961f1d8cf76a572031/pictures/source.jpg" alt="Source Image" width="1000" height="300" />
+<img src="https://github.com/victoria880/ePortfolio/blob/34b5c89d359b2a50ddfe9c961f1d8cf76a572031/pictures/source.jpg" alt="Source Image" width="2000" height="300" />
 
 ---
 
