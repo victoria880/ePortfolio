@@ -1,9 +1,17 @@
 # **ePortfolio**
-**CS-499 Computer Science Capstone**
+## **CS-499 Computer Science Capstone**
 
 ---
 
 ## **Professional Self-Assessment**
+
+Greetings! My name is Victoria Franklin, and I am a passionate computer science student at SNHU. In October 2018, I embarked on a journey to earn my Bachelor of Science degree in computer science, and I am thrilled to share my progress with you through this GitHub account. Here, I will showcase my work for CS-499 and other projects contributing to my academic journey. During my pursuit of a BS in computer science from Southern New Hampshire University with a software engineering concentration, I have acquired a diverse set of skills. These include proficiency in various programming languages, an understanding of computer hardware and software, and familiarity with the different phases of the software development life cycle. I have demonstrated my expertise in database management with SQL and MongoDB and my understanding of programming languages like C++, Python, and Java. This comprehensive program has equipped me to excel in a career in software engineering.
+
+
+The thermostat control board model (gpiointerrupt.c) is an example of an SDLC project that has helped me hone my abilities in creating and operating software for embedded systems. I am competent in handling interactions with hardware, reusing code, and guaranteeing program stability. In CS 405: Secure Coding, I worked on the BufferOverflow.cpp project, which helped me learn more about security vulnerabilities and how to fix them. I have improved the dependability and safety of my software by fixing buffer overflows and adopting secure code. Information Models and Programs: In CS340: Advanced Programming Concepts, I used AnimalShelter.py to showcase my data operations and algorithm design abilities. This study proved that I can effectively handle complicated data structures and put theoretical ideas to use in practical situations. Students learned how to manage MongoDB NoSQL databases with the help of AnimalShelter.py. Database access security, data integrity, and CRUD operations were all tested in this project.
+
+
+Through the program and culminating project, I have gained valuable skills beyond technical knowledge, which have significantly enhanced my career development. It was recommended to take a systematic approach to finding and fixing complex issues for data processing, code debugging, and security vulnerabilities. I have honed my project management abilities by submitting my work on time. These abilities enable me to organize, carry out, and assess my tasks. Communication is vital in teamwork and business, and code reviews and detailed documentation have helped me enhance this skill. The curriculum has fostered a spirit of continuous learning and technical relevance through its experiences and challenges.
 
 ---
 
