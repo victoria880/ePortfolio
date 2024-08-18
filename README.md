@@ -1,4 +1,8 @@
 # **ePortfolio**
+
+Greetings! My name is Victoria Franklin, and I am a dedicated computer science student at SNHU. In October 2018, I embarked on a journey to earn my Bachelor of Science degree in computer science, and I am thrilled to share my progress with you through this GitHub account. Here, I will showcase my work for CS-499 and other projects contributing to my academic journey. 
+
+---
 # **CS-499 Computer Science Capstone**
 
 <img src="https://github.com/victoria880/ePortfolio/blob/34b5c89d359b2a50ddfe9c961f1d8cf76a572031/pictures/source.jpg" alt="Source Image" width="2000" height="300" />
@@ -7,7 +11,7 @@
 
 ## **Professional Self-Assessment**
 
-Greetings! My name is Victoria Franklin, and I am a passionate computer science student at SNHU. In October 2018, I embarked on a journey to earn my Bachelor of Science degree in computer science, and I am thrilled to share my progress with you through this GitHub account. Here, I will showcase my work for CS-499 and other projects contributing to my academic journey. During my pursuit of a BS in computer science from Southern New Hampshire University with a software engineering concentration, I have acquired a diverse set of skills. These include proficiency in various programming languages, an understanding of computer hardware and software, and familiarity with the different phases of the software development life cycle. I have demonstrated my expertise in database management with SQL and MongoDB and my understanding of programming languages like C++, Python, and Java. This comprehensive program has equipped me to excel in a career in software engineering.
+During my pursuit of a BS in computer science from Southern New Hampshire University with a software engineering concentration, I have acquired a diverse set of skills. These include proficiency in various programming languages, an understanding of computer hardware and software, and familiarity with the different phases of the software development life cycle. I have demonstrated my expertise in database management with SQL and MongoDB and my understanding of programming languages like C++, Python, and Java. This comprehensive program has equipped me to excel in a career in software engineering.
 
 
 SDLC projects like the thermostat control board model (gpiointerrupt.c) have helped me learn embedded system software development and operation. I'm good at hardware interactions, code reuse, and program stability. I worked on BufferOverflow.cpp in CS 405: Secure Coding to learn about security problems and how to address them. Fixing buffer overflows and using secure code has enhanced my software's reliability and safety. Information Models and Programs: I used AnimalShelter.py to demonstrate my data operations and algorithm design skills in CS340: Advanced Programming Concepts. This project showed I can handle complex data structures and apply theoretical concepts. AnimalShelter.py helped students handle MongoDB NoSQL databases. This project investigated database access security, data integrity, and CRUD. 
