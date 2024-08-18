@@ -1,6 +1,8 @@
 # **ePortfolio**
 # **CS-499 Computer Science Capstone**
 
+<img src="https://github.com/victoria880/ePortfolio/blob/34b5c89d359b2a50ddfe9c961f1d8cf76a572031/pictures/source.jpg" alt="Source Image" width="2000" height="300" />
+
 ---
 
 ## **Professional Self-Assessment**
@@ -13,10 +15,7 @@ SDLC projects like the thermostat control board model (gpiointerrupt.c) have hel
 Through the program and culminating project, I have gained valuable skills beyond technical knowledge, significantly enhancing my career development. It was recommended to take a systematic approach to finding and fixing complex issues for data processing, code debugging, and security vulnerabilities. I have honed my project management abilities by submitting my work on time. These abilities enable me to organize, carry out, and assess my tasks. Communication is vital in teamwork and business, and code reviews and detailed documentation have helped me enhance this skill. The curriculum has fostered a spirit of continuous learning and technical relevance through its experiences and challenges.
 Because of my experience in the computer science program and the CS-499 Capstone project, I am more prepared for the workforce. With the information and knowledge presented in this ePortfolio, I am confident in my ability to make a positive impact in the field of computer science. As a software developer, I can't wait to use these skills in the real world. 
 
-## **Milestone One: Code Review** 
-
-
-
+## **Milestone One: Code Review**
 
 As part of my first strategy, I recorded myself reviewing the code for each artifact. This code review details my strategy for improving the code by analyzing it for constraints, flaws, and vulnerabilities. These code reviews show each category's essential features as they travel through the current code and proposed improvements.
 
@@ -70,7 +69,7 @@ Using MongoDB, a popular NoSQL database, shows my database expertise. This is es
 My ePortfolio includes `AnimalShelter.py`, which showcases my software engineering talents and ability to build a backend service. This fulfills the software engineering and design artifact criteria for my CS 499 project. `AnimalShelter.py` also demonstrates my skills in database management, secure coding, object-oriented design, and the real-world application of complex programming ideas. This area of my ePortfolio is vital since it demonstrates my class and activity knowledge and skills.
 
 I updated my outcome coverage plans to reflect `AnimalShelter.py` developments to meet course goals. This alignment gives my software systems additional security and makes my ePortfolio stand out. It proves I know modern database management, program architecture, and safe coding. I improved my secure coding, database administration, and program design skills by
-
+changing the `AnimalShelter.py` artifact. My challenges helped me improve my problem-solving and apply industry best practices, making the implementation stronger and safer. This strategy has also shown the importance of iterative and continuous software development to ensure reliable and easy-to-manage systems.
 [View the Enhancement on GitHub](https://github.com/victoria880/ePortfolio/tree/6a7c200dd488dd7387909454143adc3c48bc4cda/CS%20499%20Milestone%20Four)
 
 ---
