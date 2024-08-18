@@ -87,6 +87,6 @@ changing the `AnimalShelter.py` artifact. My challenges helped me improve my pro
 
 [GitHub.io](https://victoria880.github.io/ePortfolio/)
 
-
+[Journals](https://github.com/victoria880/ePortfolio/tree/c9a7c3edd1808dc45704e325ab32ca2a0536588a/Journals)
 
 ---
