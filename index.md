@@ -67,10 +67,10 @@ I improved `AnimalShelter.py`, a course final assignment. MongoDB's `AnimalShelt
 
 The `AnimalShelter.py` artifact is a significant contribution to my ePortfolio. It serves as a testament to my expertise in database management, CRUD operations, secure coding, and other critical software engineering and development project areas. It also demonstrates my talents and knowledge, as shown below.
 
-- Add new documents to the database.
-- Read: Retrieve documents using precise criteria.
-- Update: Modify existing documentation.
-- Delete documents from the database.
+- `Add new documents to the database.`
+- `Read: Retrieve documents using precise criteria.`
+- `Update: Modify existing documentation.`
+- `Delete documents from the database.`
 
 Using MongoDB, a popular NoSQL database, shows my database expertise. This is especially true for future technology and system designs. I can securely manage usernames and passwords when accessing databases after learning safe coding and credential management in CS 405: Code Security. When a fundamental problem occurs, such as trying to execute an action on null data, the script promptly fixes it. Effective software development requires this. The script handles database operations with an `AnimalShelter` class, following object-oriented programming. The class code allows future adjustments and extensions with its scalable and easy-to-maintain modular architecture. This challenge is critical for scalable system design and matches my ePortfolio skills.
 
