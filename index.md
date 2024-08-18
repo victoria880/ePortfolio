@@ -13,7 +13,8 @@ SDLC projects like the thermostat control board model (gpiointerrupt.c) have hel
 Through the program and culminating project, I have gained valuable skills beyond technical knowledge, significantly enhancing my career development. It was recommended to take a systematic approach to finding and fixing complex issues for data processing, code debugging, and security vulnerabilities. I have honed my project management abilities by submitting my work on time. These abilities enable me to organize, carry out, and assess my tasks. Communication is vital in teamwork and business, and code reviews and detailed documentation have helped me enhance this skill. The curriculum has fostered a spirit of continuous learning and technical relevance through its experiences and challenges.
 Because of my experience in the computer science program and the CS-499 Capstone project, I am more prepared for the workforce. With the information and knowledge presented in this ePortfolio, I am confident in my ability to make a positive impact in the field of computer science. As a software developer, I can't wait to use these skills in the real world. 
 
-## **Milestone One: Code Review**
+## **Milestone One: Code Review** 
+![Code Review Icon](https://github.com/victoria880/ePortfolio/blob/87ec1bbcac366c448c29c2b193d8638185675f40/pictures/Picture2.png)
 
 As part of my first strategy, I recorded myself reviewing the code for each artifact. This code review details my strategy for improving the code by analyzing it for constraints, flaws, and vulnerabilities. These code reviews show each category's essential features as they travel through the current code and proposed improvements.
 
