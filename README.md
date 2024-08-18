@@ -6,14 +6,12 @@
 **Professional self-assessment**
 
 #
-**Code Review**
+**Milestone One: Code Review**
 
 
 https://youtu.be/Yoavnz4OL_0
 #
-**Milestone One: Code Review**
 
-#
 **Milestone Two: Enhancement One: Software Design and Engineering**
 
 One of the most enjoyable experiences during my studies was the construction of the thermostat control board model, gpiointerrupt.c, for the final project in the CS-350 class. This project, which involved a timer, GPIO interrupt, UART, an I2C sensor, and temperature-based LED control, was a testament to my programming abilities. The management of GPIO pins, timers, and peripherals (GPIO_init, initTimer) demonstrated my understanding of embedded system performance and reliability. This artifact, a result of an excellent course, is now a part of my ePortfolio. 
