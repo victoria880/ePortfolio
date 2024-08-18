@@ -5,9 +5,11 @@
 
 ## **Professional Self-Assessment**
 
+Greetings! My name is Victoria Franklin, and I am a passionate computer science student at SNHU. In October 2018, I embarked on a journey to earn my Bachelor of Science degree in computer science, and I am thrilled to share my progress with you through this GitHub account. Here, I will showcase my work for CS-499 and other projects contributing to my academic journey. During my pursuit of a BS in computer science from Southern New Hampshire University with a software engineering concentration, I have acquired a diverse set of skills. These include proficiency in various programming languages, an understanding of computer hardware and software, and familiarity with the different phases of the software development life 
+cycle. I have demonstrated my expertise in database management with SQL and MongoDB and my understanding of programming languages like C++, Python, and Java. This comprehensive program has equipped me to excel in a career in software engineering.
+
 ---
 
-## **Milestone One: Code Review**
 
 As part of my first strategy, I recorded myself reviewing the code for each artifact. This code review details my strategy for improving the code by analyzing it for constraints, flaws, and vulnerabilities. These code reviews show each category's essential features as they travel through the current code and proposed improvements.
 
