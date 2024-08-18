@@ -65,6 +65,7 @@ Improving and changing `BufferOverflow.cpp` taught me a lot. Secure coding, test
 ---
 
 ## **Milestone Four: Enhancement Three: Databases**
+<img src="https://github.com/victoria880/ePortfolio/blob/cd8a787eb38216d9cef593e608824682d885836f/pictures/database.png" alt="Source Image" width="50" height="50" />
 
 I improved `AnimalShelter.py`, a course final assignment. MongoDB's `AnimalShelter` class CRUDs animals. This code initializes the MongoDB connection and implements read, update, delete, and create. Numerous adjustments can improve code. The `init` method gives a username and password to the connection variables to secure database access. The new method creation replaced `insert_one`, enhancing code efficiency and performance. The `read` method returns a list of documents in addition to printing them, improving code readability. Return statements ensure data integrity. Thus, the method `update` included one. A return statement in the `Delete` Method makes code more consistent and predictable. The `AnimalShelter` class handles issues better and logs more thoroughly with this enhancement request, making troubleshooting and maintenance easier.
 
