@@ -1,6 +1,8 @@
 # **ePortfolio**
 
-Greetings! My name is Victoria Franklin, and I am a dedicated computer science student at SNHU. In October 2018, I embarked on a journey to earn my Bachelor of Science degree in computer science, and I am thrilled to share my progress with you through this GitHub account. Here, I will showcase my work for CS-499 and other projects contributing to my academic journey. 
+Greetings! 
+
+My name is Victoria Franklin, and I am a dedicated computer science student at SNHU. In October 2018, I embarked on a journey to earn my Bachelor of Science degree in computer science, and I am thrilled to share my progress with you through this GitHub account. Here, I will showcase my work for CS-499 and other projects contributing to my academic journey. 
 
 ---
 # **CS-499 Computer Science Capstone**
