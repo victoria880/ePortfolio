@@ -26,9 +26,3 @@ https://youtu.be/Yoavnz4OL_0
 #
 
 
-<a href="" title=" Click for Enhancement Two">Click for Enhancement Two</a>
-
-
-<a href="" title=" Click for Enhancement Three">Click for Enhancement Three</a>
-
-<a href="" title=" Click for Enhancement Four">Click for Enhancement Four</a>
