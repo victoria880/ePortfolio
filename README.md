@@ -1,7 +1,7 @@
 # ePortfolio
 **CS-499 Computer Science Capstone**
 
-Greetings! In October 2018, I enrolled in the computer science degree program at SNHU. My name is Victoria Franklin, and I created this GitHub account to serve as an online portfolio where I can showcase my work for CS-499 and ultimately achieve my Bachelor of Science degree in computer science.
+
 #
 **Professional self-assessment**
 
