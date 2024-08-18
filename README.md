@@ -63,6 +63,5 @@ I updated my outcome coverage plans to reflect AnimalShelter.py developments to 
 https://github.com/victoria880/ePortfolio/tree/31a0faacd976d911523b7f8f2ccdd224d23f679b/CS%20499%20Milestone%20Four
 
 #
-<a href="https://github.com/yourusername" target="_blank">GitHub Profile</a>
 
 
