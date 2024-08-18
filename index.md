@@ -31,7 +31,9 @@ The third artifact, `AnimalShelter.py`, is a final project from CS 340: Advanced
 
 One of the most enjoyable experiences during my studies was the construction of the thermostat control board model, `gpiointerrupt.c`, for the final project in the CS-350 class. This project, which involved a timer, GPIO interrupt, UART, an I2C sensor, and temperature-based LED control, was a testament to my programming abilities. The management of GPIO pins, timers, and peripherals (`GPIO_init`, `initTimer`) demonstrated my understanding of embedded system performance and reliability. This artifact, a result of an excellent course, is now a part of my ePortfolio. Directly initializing all global variables improved and clarified the code. Enclosing global variables in functions or restricting their scope to specific regions lowers their influence. Error management and recovery in I2C and UART must be reliable. They use UART instead of `printf` and `UART_write` for debugging output, which aids in error detection. Regularly utilizing `UART_write` instead of `printf` for debug output implies that you can communicate with embedded systems and TI-RTOS. Write interrupt handlers and sensor settings with comments that clarify ambiguous logic and briefly outline functions, including parameters, purpose, and return values. To implement the variable, update the button logic (`gpioButtonFxn0` and `gpioButtonFxn1`) based on the current state. By testing the timing logic for application requirements, we prevented delays and overlaps. All peripherals, including timers and GPIO pins, are released when idle. Changing the thing was both instructive and life-changing. Software development taught me the importance of proper error management. Handling errors gracefully avoids crashes and ambiguity. Incorrect sensor readings and failed I2C transactions were difficult to resolve. The fault could be in software, wiring, or hardware; diagnosis necessitates a thorough approach. Detailed preparation, including understanding system needs and potential challenges, was required to ensure project success. Improving the artifact demonstrated the value of modular architecture, error control, and rigorous testing in software engineering. It emphasized hardware challenges, preparation, and thorough debugging.
 
-[View the Enhancement on GitHub](https://github.com/victoria880/ePortfolio/tree/5b56d78b780bbb0726b050e3f276e2efdb2f777f/CS%20499%20Milestone%20Two)
+[View the Enhancement on GitHub](
+
+https://github.com/victoria880/ePortfolio/tree/6a7c200dd488dd7387909454143adc3c48bc4cda/CS%20499%20Milestone%20Two)
 
 ---
 
@@ -47,7 +49,7 @@ As promised in the first module, I improved `BufferOverflow.cpp`. This artifact 
 
 Improving and changing `BufferOverflow.cpp` taught me a lot. Secure coding, testing, and documentation are essential to prevent buffer overflow vulnerabilities. Finding hidden vulnerabilities, balancing performance and security, and dealing with complex edge cases helped me become a better software developer. This experience strengthened my secure coding skills and prepared me to manage security difficulties in software development.
 
-[View the Enhancement on GitHub](https://github.com/victoria880/ePortfolio/tree/31a0faacd976d911523b7f8f2ccdd224d23f679b/CS%20499%20Milestone%20Three)
+[View the Enhancement on GitHub](https://github.com/victoria880/ePortfolio/tree/5b56d78b780bbb0726b050e3f276e2efdb2f777f/CS%20499%20Milestone%20Three)
 
 ---
 
@@ -68,6 +70,6 @@ My ePortfolio includes `AnimalShelter.py`, which showcases my software engineeri
 
 I updated my outcome coverage plans to reflect `AnimalShelter.py` developments to meet course goals. This alignment gives my software systems additional security and makes my ePortfolio stand out. It proves I know modern database management, program architecture, and safe coding. I improved my secure coding, database administration, and program design skills by
 
-[View the Enhancement on GitHub](https://github.com/victoria880/ePortfolio/tree/31a0faacd976d911523b7f8f2ccdd224d23f679b/CS%20499%20Milestone%20Four)
+[View the Enhancement on GitHub](https://github.com/victoria880/ePortfolio/tree/6a7c200dd488dd7387909454143adc3c48bc4cda/CS%20499%20Milestone%20Four)
 
 ---
