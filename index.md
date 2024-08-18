@@ -82,7 +82,10 @@ changing the `AnimalShelter.py` artifact. My challenges helped me improve my pro
 
 ---
 
-## **Porfolio Links**
+## **ePorfolio Links**
 
-https://victoria880.github.io/ePortfolio/
+[GitHub.io](https://victoria880.github.io/ePortfolio/)
+
+
+
 ---
