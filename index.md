@@ -24,6 +24,7 @@ Because of my experience in the computer science program and the CS-499 Capstone
 ---
 
 ## **Milestone One: Code Review**
+<img src="https://github.com/victoria880/ePortfolio/blob/55474edca4d468bc25105a0e85ebab390b292464/pictures/Picture2.png" alt="Source Image" width="50" height="50" />
 
 As part of my first strategy, I recorded myself reviewing the code for each artifact. This code review details my strategy for improving the code by analyzing it for constraints, flaws, and vulnerabilities. These code reviews show each category's essential features as they travel through the current code and proposed improvements.
 
@@ -38,6 +39,7 @@ The third artifact, `AnimalShelter.py`, is a final project from CS 340: Advanced
 ---
 
 ## **Milestone Two: Enhancement One: Software Design and Engineering**
+<img src="https://github.com/victoria880/ePortfolio/blob/92632b90b84c9b4b852a579c4a9c81a6214657f6/pictures/software%20.png" alt="Source Image" width="50" height="50" />
 
 One of the most enjoyable experiences during my studies was the construction of the thermostat control board model, `gpiointerrupt.c`, for the final project in the CS-350 class. This project, which involved a timer, GPIO interrupt, UART, an I2C sensor, and temperature-based LED control, was a testament to my programming abilities. The management of GPIO pins, timers, and peripherals (`GPIO_init`, `initTimer`) demonstrated my understanding of embedded system performance and reliability. This artifact, a result of an excellent course, is now a part of my ePortfolio. Directly initializing all global variables improved and clarified the code. Enclosing global variables in functions or restricting their scope to specific regions lowers their influence. Error management and recovery in I2C and UART must be reliable. They use UART instead of `printf` and `UART_write` for debugging output, which aids in error detection. Regularly utilizing `UART_write` instead of `printf` for debug output implies that you can communicate with embedded systems and TI-RTOS. Write interrupt handlers and sensor settings with comments that clarify ambiguous logic and briefly outline functions, including parameters, purpose, and return values. To implement the variable, update the button logic (`gpioButtonFxn0` and `gpioButtonFxn1`) based on the current state. By testing the timing logic for application requirements, we prevented delays and overlaps. All peripherals, including timers and GPIO pins, are released when idle. Changing the thing was both instructive and life-changing. Software development taught me the importance of proper error management. Handling errors gracefully avoids crashes and ambiguity. Incorrect sensor readings and failed I2C transactions were difficult to resolve. The fault could be in software, wiring, or hardware; diagnosis necessitates a thorough approach. Detailed preparation, including understanding system needs and potential challenges, was required to ensure project success. Improving the artifact demonstrated the value of modular architecture, error control, and rigorous testing in software engineering. It emphasized hardware challenges, preparation, and thorough debugging.
 
@@ -46,6 +48,7 @@ One of the most enjoyable experiences during my studies was the construction of 
 ---
 
 ## **Milestone Three: Enhancement Two: Algorithms and Data Structures**
+<img src="https://github.com/victoria880/ePortfolio/blob/19649b33bf8578215bea4dc52c89b7f4e3ce70e3/pictures/algorithm.png" alt="Source Image" width="50" height="50" />
 
 The `BufferOverflow.cpp` artifact from CS 405: Secure Coding is crucial to my enhancement. It's a classic runtime error: a buffer overflow, which occurs when a program writes past an array or buffer's end, corrupting nearby memory. This artifact is important because it shows my profound grasp of such vulnerabilities commonly caused by unexpected user input. For several reasons, CS 405: Secure Coding and `BufferOverflow.cpp` must be on my ePortfolio. Buffer overflows are among the worst software security concerns, and `BufferOverflow.cpp` shows my knowledge of them. Secure coding approaches include a theoretical notion and a practical tool to detect, analyze, and resolve these concerns in real-world scenarios. I can code securely and implement protections to avoid standard security holes. Finding and fixing a buffer overflow vulnerability requires advanced problem-solving skills. I apply a systematic strategy to analyze security vulnerabilities, determine their sources, and execute successful remedies. Standardization bodies and safe coding guidelines have extensively addressed buffer overflow issues. This artifact proves that I am ready to work professionally and that my secure software development skills meet industry standards.
 
@@ -62,6 +65,7 @@ Improving and changing `BufferOverflow.cpp` taught me a lot. Secure coding, test
 ---
 
 ## **Milestone Four: Enhancement Three: Databases**
+<img src="https://github.com/victoria880/ePortfolio/blob/cd8a787eb38216d9cef593e608824682d885836f/pictures/database.png" alt="Source Image" width="50" height="50" />
 
 I improved `AnimalShelter.py`, a course final assignment. MongoDB's `AnimalShelter` class CRUDs animals. This code initializes the MongoDB connection and implements read, update, delete, and create. Numerous adjustments can improve code. The `init` method gives a username and password to the connection variables to secure database access. The new method creation replaced `insert_one`, enhancing code efficiency and performance. The `read` method returns a list of documents in addition to printing them, improving code readability. Return statements ensure data integrity. Thus, the method `update` included one. A return statement in the `Delete` Method makes code more consistent and predictable. The `AnimalShelter` class handles issues better and logs more thoroughly with this enhancement request, making troubleshooting and maintenance easier.
 
@@ -88,5 +92,8 @@ changing the `AnimalShelter.py` artifact. My challenges helped me improve my pro
 [GitHub.io](https://victoria880.github.io/ePortfolio/)
 
 [Journals](https://github.com/victoria880/ePortfolio/tree/c9a7c3edd1808dc45704e325ab32ca2a0536588a/Journals)
+
+[Professional Self-Assessment ](https://github.com/victoria880/ePortfolio/blob/a4b72e38b29074b7d7c2cee4bc80da24ba9e1a5c/Professional%20Self.pdf)
+
 
 ---
